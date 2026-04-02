@@ -1,6 +1,6 @@
 ## Hi, I'm Steph!👋
 
-I am an Aspiring Data Professional. What began as university coursework has evolved into a deep passion for the data lifecycle—from engineering robust pipelines and training machine learning models to uncovering value through visualizations.
+I am a BS Computer Science student, specializing in Data Science and an aspiring Data Professional. What began as university coursework has evolved into a deep passion for the data lifecycle—from engineering robust pipelines and training machine learning models to uncovering value through visualizations.
 
 - 🏗️ **Data Engineering**: Designing scalable ETL & ELT workflows with Pandas, PySpark, Airflow, dbt, and PostgreSQL.
 - 🧪 Data Science: Building predictive models using Python (Scikit-learn, Pandas).
