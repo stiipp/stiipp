@@ -3,8 +3,8 @@
 I am a BS Computer Science student, specializing in Data Science and an aspiring Data Professional. What began as university coursework has evolved into a deep passion for the data lifecycle—from engineering robust pipelines and training machine learning models to uncovering value through visualizations.
 
 - 🏗️ **Data Engineering**: Designing scalable ETL & ELT workflows with Pandas, PySpark, Airflow, dbt, and PostgreSQL.
-- 🧪 Data Science: Building predictive models using Python (Scikit-learn, Pandas).
-- 📊 Current Focus: Upskilling in Snowflake, Databricks, and other cloud-based data tools!
+- 🧪 **Data Science**: Building predictive models using Python (Scikit-learn, Pandas).
+- 📊 **Current Focus**: Upskilling in Snowflake, Databricks, and other cloud-based data tools!
 <!--
 **stiipp/stiipp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
